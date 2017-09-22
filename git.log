@@ -1,0 +1,29 @@
+commit 4189fd5cea4ea8f4c6529a7c7d437db5ec64a866
+Author: philwil <sysdcs@gmail.com>
+Date:   Fri Sep 22 17:46:09 2017 -0400
+
+     added foo2
+
+commit ee2882e66562352b37d6f9752ce01c69d4278258
+Author: root <root@localhost.localdomain>
+Date:   Fri Sep 22 17:17:48 2017 -0400
+
+     added file here
+
+commit 0f313a140759937b6d2d25458af8e79bfd307ba4
+Author: Phil Wilshire <sysdcs@gmail.com>
+Date:   Fri Sep 22 07:48:46 2017 -0700
+
+     file2
+
+commit 6b9177215e6ad0f6126f9115e717f8348d2e167c
+Author: Phil Wilshire <sysdcs@gmail.com>
+Date:   Fri Sep 22 07:28:07 2017 -0700
+
+     add test
+
+commit daf3357ac2ee7c4ce82afb30a51393bb4e1d2634
+Author: Phil Wilshire <sysdcs@gmail.com>
+Date:   Fri Sep 22 09:27:27 2017 -0400
+
+    Initial commit
