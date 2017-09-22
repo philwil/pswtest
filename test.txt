@@ -1,0 +1,2 @@
+origin	https://philwil:c925bc054efd4e067575603c302c68242a3e7685@github.com/philwil/pswtest.git (fetch)
+origin	https://philwil:c925bc054efd4e067575603c302c68242a3e7685@github.com/philwil/pswtest.git (push)
